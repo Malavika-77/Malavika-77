@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Malavika Raju
 
 <!--
 **Malavika-77/Malavika-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Introduction
 
-Hi there! 👋 I'm a recent graduate in Computer Science Engineering, class of 2023, passionate about web development.  I have a solid foundation in HTML, CSS, and JavaScript, with over 5 years of hands-on experience. Additionally, I've delved into backend technologies like Node.js, Express, and MongoDB, along with frontend frameworks such as React.js and Bootstrap.
+ I'm a recent graduate in Computer Science Engineering, class of 2023, passionate about web development.  I have a solid foundation in HTML, CSS, and JavaScript, with over 5 years of hands-on experience. Additionally, I've delved into backend technologies like Node.js, Express, and MongoDB, along with frontend frameworks such as React.js and Bootstrap.
 
 ## Experience
 
