@@ -17,7 +17,7 @@
    <h2>𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐁𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝</h2>
 </p>
 
-<div style="display: flex; justify-content: center; flex-wrap: nowrap;">
+<div style="display: flex; flex-direction: column; align-items: center;">
 
   <!-- Card 1 -->
   <div style="background-color:#f7f9fb; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); width: 200px; height: 100px; margin: 10px; text-align: center; overflow: hidden;">
