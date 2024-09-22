@@ -15,10 +15,10 @@
    <h2>𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐁𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝</h2>
 </p>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; flex-wrap: nowrap;">
 
   <!-- Card 1 -->
-  <div style="background-color:#f7f9fb; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); width: 300px; margin: 10px; text-align: center;">
+  <div style="background-color:#f7f9fb; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); width: 250px; margin: 10px; text-align: center;">
     <img src="https://via.placeholder.com/150" alt="HTML CSS JavaScript" style="border-radius: 10px 10px 0 0; width: 100%;">
     <div style="padding: 15px;">
       <h3 style="color:#2C3E50;">Front-end Developer</h3>
@@ -29,7 +29,7 @@
   </div>
 
   <!-- Card 2 -->
-  <div style="background-color:#f7f9fb; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); width: 300px; margin: 10px; text-align: center;">
+  <div style="background-color:#f7f9fb; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); width: 250px; margin: 10px; text-align: center;">
     <img src="https://via.placeholder.com/150" alt="React Node MongoDB" style="border-radius: 10px 10px 0 0; width: 100%;">
     <div style="padding: 15px;">
       <h3 style="color:#2C3E50;">Full-stack Developer</h3>
@@ -39,7 +39,7 @@
   </div>
 
   <!-- Card 3 -->
-  <div style="background-color:#f7f9fb; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); width: 300px; margin: 10px; text-align: center;">
+  <div style="background-color:#f7f9fb; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); width: 250px; margin: 10px; text-align: center;">
     <img src="https://via.placeholder.com/150" alt="Backend Developer" style="border-radius: 10px 10px 0 0; width: 100%;">
     <div style="padding: 15px;">
       <h3 style="color:#2C3E50;">Backend Developer</h3>
@@ -49,6 +49,7 @@
   </div>
 
 </div>
+
 
 
 ## Skills
