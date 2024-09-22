@@ -18,7 +18,7 @@
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
 
   <!-- Card 1 -->
-  <div style="background-color:#f7f9fb; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); width: 250px; margin: 10px; text-align: center;">
+  <div style="background-color:#f7f9fb; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); width: 100px; margin: 10px; text-align: center;">
     <img src="https://via.placeholder.com/150" alt="HTML CSS JavaScript" style="border-radius: 10px 10px 0 0; width: 100%;">
     <div style="padding: 15px;">
       <h3 style="color:#2C3E50;">Front-end Developer</h3>
