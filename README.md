@@ -18,7 +18,7 @@
 
   <!-- Card 1 -->
   <div style="background-color:#f7f9fb; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); width: 60px; height: 50px; margin: 10px; text-align: center; overflow: hidden;">
-    <img src="https://via.placeholder.com/60" alt="HTML CSS JavaScript" style="border-radius: 10px 10px 0 0; width: 100%; height: 60px;">
+    <img src="https://via.placeholder.com/60" alt="HTML CSS JavaScript" style="border-radius: 10px 10px 0 0; width: 60px; height: 60px;">
     <div style="padding: 5px; font-size: 10px;">
       <h3 style="color:#2C3E50; font-size: 12px;">Front-end</h3>
       <p style="margin: 0;"><b>Status:</b> Working</p>
