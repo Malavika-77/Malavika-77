@@ -5,7 +5,7 @@
   <img src="https://img.freepik.com/premium-photo/software-programmer-girl-office-work-vector-design-dark-computer-desk-workspace-woman_608477-793.jpg" alt="Profile Image" width="300px" height="300px" style="border-radius: 50%;">
 </p>
 <p align="center">
-   <h1>𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋 𝐈'𝐦 𝐌𝐚𝐥𝐚𝐯𝐢𝐤𝐚 𝐑𝐚𝐣𝐮</h1>
+   <h1  align="center">𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋 𝐈'𝐦 𝐌𝐚𝐥𝐚𝐯𝐢𝐤𝐚 𝐑𝐚𝐣𝐮</h1>
 </p>
 
 
