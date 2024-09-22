@@ -11,10 +11,13 @@
 </p>
 
 # Introduction
-
-I'm a recent graduate in Computer Science Engineering, class of 2023, passionate about web development. I have a solid foundation in HTML, CSS, and JavaScript, with over 5 years of hands-on experience. Additionally, I've delved into backend technologies like Node.js, Express, and MongoDB, along with frontend frameworks such as React.js and Bootstrap.
-
-
+<p align="center">
+   <div style="background-color:#f0f8ff; border: 2px solid #3498DB; padding: 15px; border-radius: 10px; width: 50%; margin: 0 auto;">
+     <span style="font-size:18px; color:#2C3E50; font-weight:bold;">
+        𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐢𝐧𝐠 𝐢𝐧 𝐭𝐡𝐞 𝐌𝐄𝐑𝐍 𝐬𝐭𝐚𝐜𝐤. 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐝𝐲𝐧𝐚𝐦𝐢𝐜, 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐯𝐞 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬. 𝐑𝐞𝐚𝐝𝐲 𝐭𝐨 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐞 𝐚𝐧𝐝 𝐦𝐚𝐤𝐞 𝐚𝐧 𝐢𝐦𝐩𝐚𝐜𝐭.
+     </span>
+   </div>
+</p>
 ## Experience
 
 With 5 years of practical experience in HTML, CSS, JavaScript, and MySQL, I've had the opportunity to work on a variety of projects, honing my skills and collaborating with diverse teams. Moreover, I've spent 3 months diving deep into React.js, Node.js, Express, MongoDB, and EJS, during which I contributed to several projects and gained valuable insights into full-stack development.
