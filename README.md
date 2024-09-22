@@ -21,17 +21,19 @@
 
   <!-- Card 1 -->
   <div style="background-color:#f7f9fb; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); width: 200px; height: 100px; margin: 10px; text-align: center; overflow: hidden; display: flex; flex-direction: column; justify-content: center;">
-    <h3 style="color:#2C3E50; font-size: 12px;">Front-end Developer</h3>
-    <p style="margin: 0; font-size: 10px;"><b>Status:</b> Currently Working</p>
-    <p style="margin: 0; font-size: 10px;">Experience: 5 Years</p>
-    <p style="margin: 0; font-size: 10px;">Skills: HTML, CSS, JavaScript, MySQL</p>
+    <h3 style="color:#2C3E50; font-size: 12px;">Implementation Engineer</h3>
+    <p style="margin: 0; font-size: 10px;"><b>Company:</b> 6D Technologies</p>
+    <p style="margin: 0; font-size: 10px;"><b>Status:</b> Full-time</p>
+    <p style="margin: 0; font-size: 10px;">Location: Thiruvananthapuram, Kerala, India</p>
+    <p style="margin: 0; font-size: 10px;"><b>Duration:</b> Sep 2024 - Present</p>
   </div>
 
   <!-- Card 2 -->
   <div style="background-color:#f7f9fb; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); width: 200px; height: 100px; margin: 10px; text-align: center; overflow: hidden; display: flex; flex-direction: column; justify-content: center;">
-    <h3 style="color:#2C3E50; font-size: 12px;">Full-stack Developer</h3>
-    <p style="margin: 0; font-size: 10px;"><b>Status:</b> Internship Completed</p>
-    <p style="margin: 0; font-size: 10px;">Skills: React.js, Node.js, MongoDB, Express</p>
+    <h3 style="color:#2C3E50; font-size: 12px;">Full Stack Developer</h3>
+    <p style="margin: 0; font-size: 10px;"><b>Status:</b> Freelance</p>
+    <p style="margin: 0; font-size: 10px;">Location: Kochi, Kerala, India</p>
+    <p style="margin: 0; font-size: 10px;"><b>Duration:</b> Oct 2023 - Present</p>
   </div>
 
   <!-- Card 3 -->
@@ -42,8 +44,6 @@
   </div>
 
 </div>
-
-
 
 
 ## Skills
