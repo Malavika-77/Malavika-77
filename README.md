@@ -36,14 +36,7 @@
     <p style="margin: 0; font-size: 10px;"><b>Duration:</b> Oct 2023 - Present</p>
   </div>
 
-  <!-- Card 3 -->
-  <div style="background-color:#f7f9fb; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); width: 200px; height: 100px; margin: 10px; text-align: center; overflow: hidden; display: flex; flex-direction: column; justify-content: center;">
-    <h3 style="color:#2C3E50; font-size: 12px;">Backend Developer</h3>
-    <p style="margin: 0; font-size: 10px;"><b>Status:</b> Completed</p>
-    <p style="margin: 0; font-size: 10px;">Skills: Node.js, Express, EJS, MySQL</p>
-  </div>
-
-</div>
+  
 
 
 ## Skills
