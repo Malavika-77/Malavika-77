@@ -42,14 +42,12 @@
 ## 𝐒𝐤𝐢𝐥𝐥𝐬
 HTML, CSS, JavaScript, React.js, Node.js, Express.js, Tailwind CSS, Bootstrap, MongoDB, EJS, MySQL, REST API Development, Web Development, MERN Stack, Software Testing, API Testing, Performance Testing, Load Testing, Apache JMeter, Postman, Swagger, Manual Testing, Functional Testing, Regression Testing, JIRA, SQL, Oracle Database, Backend Data Validation, C, C++, Python, Java, Android Development, Agile Methodology, SDLC, STLC
 
-## 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭
+## Let's Connect
 
-𝐈'𝐦 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭𝐢𝐜 𝐚𝐛𝐨𝐮𝐭 𝐞𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐧𝐞𝐰 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬, 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐧𝐠 𝐨𝐧 𝐞𝐱𝐜𝐢𝐭𝐢𝐧𝐠 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬, 𝐚𝐧𝐝 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐟𝐞𝐥𝐥𝐨𝐰 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥𝐬. 𝐅𝐞𝐞𝐥 𝐟𝐫𝐞𝐞 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐨𝐮𝐭 𝐭𝐨 𝐦𝐞 𝐭𝐡𝐫𝐨𝐮𝐠𝐡...
-<br>
-<br>
-- 𝑬𝒎𝒂𝒊𝒍: 𝒎𝒂𝒍𝒂𝒗𝒊𝒌𝒂𝒓𝒂𝒋𝒖𝟕𝟕@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎
-- 𝑳𝒊𝒏𝒌𝒆𝒅𝑰𝒏: 𝒘𝒘𝒘.𝒍𝒊𝒏𝒌𝒆𝒅𝒊𝒏.𝒄𝒐𝒎/𝒊𝒏/𝒎𝒂𝒍𝒂𝒗𝒊𝒌𝒂-𝒓𝒂𝒋𝒖-𝟗𝒂𝟕𝟖𝟓𝟓𝟏𝟗𝟑
-- 𝑮𝒊𝒕𝑯𝒖𝒃: 𝒉𝒕𝒕𝒑𝒔://𝒈𝒊𝒕𝒉𝒖𝒃.𝒄𝒐𝒎/𝑴𝒂𝒍𝒂𝒗𝒊𝒌𝒂-𝟕𝟕/𝑴𝒂𝒍𝒂𝒗𝒊𝒌𝒂-𝟕𝟕.𝒈𝒊𝒕
-  <br>
-  <br>
-𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫𝐰𝐚𝐫𝐝 𝐭𝐨 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐲𝐨𝐮 𝐚𝐧𝐝 𝐞𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐩𝐨𝐭𝐞𝐧𝐭𝐢𝐚𝐥 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧𝐬!
+I am enthusiastic about exploring new opportunities, collaborating on impactful projects, and connecting with professionals across the tech community. Feel free to reach out to me through the channels below.
+
+- **Email:** malavikaraju77@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/malavika-raju-9a7855193  
+- **GitHub:** https://github.com/Malavika-77  
+
+Looking forward to connecting and exploring potential collaborations.
