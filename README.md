@@ -40,8 +40,6 @@
 
 
 ## 𝐒𝐤𝐢𝐥𝐥𝐬
-
-𝐇𝐞𝐫𝐞 𝐚𝐫𝐞 𝐬𝐨𝐦𝐞 𝐨𝐟 𝐦𝐲 𝐤𝐞𝐲 𝐬𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬:
 HTML, CSS, JavaScript, React.js, Node.js, Express.js, Tailwind CSS, Bootstrap, MongoDB, EJS, MySQL, REST API Development, Web Development, MERN Stack, Software Testing, API Testing, Performance Testing, Load Testing, Apache JMeter, Postman, Swagger, Manual Testing, Functional Testing, Regression Testing, JIRA, SQL, Oracle Database, Backend Data Validation, C, C++, Python, Java, Android Development, Agile Methodology, SDLC, STLC
 
 ## 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭
