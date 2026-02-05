@@ -19,22 +19,20 @@
 
 <div style="display: flex; flex-direction: column; align-items: center;">
 
-  <!-- Card 1 -->
-  <div style="background-color:#f7f9fb; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); width: 200px; height: 100px; margin: 10px; text-align: center; overflow: hidden; display: flex; flex-direction: column; justify-content: center;">
-    <h3 style="color:#2C3E50; font-size: 12px;">Implementation Engineer</h3>
-    <p style="margin: 0; font-size: 10px;"><b>Company:</b> 6D Technologies</p>
-    <p style="margin: 0; font-size: 10px;"><b>Status:</b> Full-time</p>
-    <p style="margin: 0; font-size: 10px;">Location: Thiruvananthapuram, Kerala, India</p>
-    <p style="margin: 0; font-size: 10px;"><b>Duration:</b> Sep 2024 - Present</p>
-  </div>
+  ## Experience
 
-  <!-- Card 2 -->
-  <div style="background-color:#f7f9fb; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1); width: 200px; height: 100px; margin: 10px; text-align: center; overflow: hidden; display: flex; flex-direction: column; justify-content: center;">
-    <h3 style="color:#2C3E50; font-size: 12px;">Full Stack Developer</h3>
-    <p style="margin: 0; font-size: 10px;"><b>Status:</b> Freelance</p>
-    <p style="margin: 0; font-size: 10px;">Location: Kochi, Kerala, India</p>
-    <p style="margin: 0; font-size: 10px;"><b>Duration:</b> Oct 2023 - Present</p>
-  </div>
+### Implementation Engineer (QA / Performance Testing)
+**Company:** 6D Technologies  
+**Employment Type:** Full-time  
+**Location:** Thiruvananthapuram, Kerala, India  
+**Duration:** Sep 2024 – Present  
+
+---
+
+### Freelance Full Stack Developer (MERN)
+**Employment Type:** Freelance  
+**Location:** Kochi, Kerala, India  
+**Duration:** Oct 2023 – Present  
 
   
 
