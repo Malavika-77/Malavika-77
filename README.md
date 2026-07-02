@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://malavika-raju.onrender.com/assets/profile.png" alt="Malavika Raju" width="120" style="border-radius: 50%;" />
+<img src="./profile.png" alt="Malavika Raju" width="120" />
 
 # Hi there 👋 I'm Malavika Raju
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 > *"Quality is never an accident; it is always the result of intelligent effort."*
 
@@ -132,7 +132,7 @@ On the side, I build full-stack web applications as a **Freelance MERN Developer
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
