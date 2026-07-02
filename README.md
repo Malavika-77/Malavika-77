@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile.png" alt="Malavika Raju" width="120" />
+<img src="./cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.avif" alt="Malavika Raju" width="120" />
 
 # Hi there 👋 I'm Malavika Raju
 
